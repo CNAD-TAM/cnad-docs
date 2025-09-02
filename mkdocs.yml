@@ -56,5 +56,14 @@ nav:
         - Instrumentos de evaluación: subjects/embedded-systems/modules/module-2.md
         - Manual del participante: subjects/embedded-systems/modules/module-3.md
         - Flyer: subjects/embedded-systems/modules/module-4.md
+    - Internet de las cosas:
+      - Carta descriptiva: subjects/internet-of-things/index.md
+      - Contenido temático: subjects/internet-of-things/syllabus.md
+      - Módulos:
+        - Material didáctico: subjects/internet-of-things/modules/module-1.md
+        - Instrumentos de evaluación: subjects/internet-of-things/modules/module-2.md
+        - Manual del participante: subjects/internet-of-things/modules/module-3.md
+        - Flyer: subjects/internet-of-things/modules/module-4.md
+
   - Información general: about.md
 
