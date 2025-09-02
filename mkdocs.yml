@@ -1,0 +1,60 @@
+site_name: Documentación Centralizada
+site_description: Documentación que centraliza toda la documentación del CNAD
+site_url: https://github.com/CNAD-TAM/cnad-docs
+repo_url: https://github.com/CNAD-TAM/cnad-docs
+repo_name: Documentación CNAD
+
+theme:
+  name: material
+  language: es
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  font:
+    text: Inter   
+    code: JetBrains Mono
+  palette:
+    - scheme: default   
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - scheme: slate             
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+  features:
+    # Navegación
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    # Búsqueda
+    - search.suggest
+    - search.highlight
+    # Contenido
+    - toc.integrate
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.action.edit
+    - content.tabs.link
+
+nav:
+  - Inicio: index.md
+  - Cursos:
+    - Sistemas Embebidos:
+      - Carta descriptiva: subjects/embedded-systems/index.md
+      - Contenido temático: subjects/embedded-systems/syllabus.md
+      - Módulos:
+        - Material didáctico: subjects/embedded-systems/modules/module-1.md
+        - Instrumentos de evaluación: subjects/embedded-systems/modules/module-2.md
+        - Manual del participante: subjects/embedded-systems/modules/module-3.md
+        - Flyer: subjects/embedded-systems/modules/module-4.md
+  - Información general: about.md
+
