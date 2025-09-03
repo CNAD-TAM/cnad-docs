@@ -1,53 +1,132 @@
-## Instructor: Carlos Antonio Tovar García
+## Instructor  
+**Carlos Antonio Tovar García**  
 
-### Correo: [carlos.mercury92@gmail.com](mailto:carlos.mercury92@gmail.com)
+## Curso
+**Programación de Sistemas Embebidos PIC**
 
-### Lugar de Instrucción: CNAD Noreste
+### Correo  
+[carlos.mercury92@gmail.com](mailto:carlos.mercury92@gmail.com)  
 
-### Duración: 40 horas
+### Lugar de Instrucción  
+CNAD Noreste  
 
-### Aforo Máximo: 100 personas
+### Duración  
+40 horas  
 
-### Presentación
-Este curso tiene como propósito introducir a los participantes en el mundo de los **sistemas embebidos**, desarrollando habilidades en la programación de microcontroladores y en la integración de **sensores y actuadores** para proyectos de automatización y control.
-
-Las prácticas iniciarán con ejercicios básicos de **control de LEDs, push buttons, displays de 7 segmentos y LCD de 2x16**, avanzando posteriormente al **control de motores** y la implementación de **encoders digitales**. De esta manera, el participante adquirirá experiencia progresiva desde aplicaciones simples hasta sistemas de control más complejos.
-
----
-
-## Objetivos Particulares
-- Comprender la arquitectura y el funcionamiento de los sistemas embebidos.  
-- Configurar entornos de desarrollo (IDE, compiladores y herramientas).  
-- Programar entradas y salidas digitales y analógicas.  
-- Implementar protocolos de comunicación (UART, I²C, SPI).  
-- Integrar sensores y actuadores en prácticas progresivas: LEDs, push buttons, displays, motores y encoders.  
-- Desarrollar un proyecto integrador aplicando técnicas de programación estructurada y modular.  
+### Aforo Máximo  
+100 personas  
 
 ---
 
-## Objetivos del Participante
+## Presentación  
+
+Los **sistemas embebidos** son tecnologías que integran hardware y software en un solo dispositivo para realizar tareas específicas. Este curso está enfocado en el uso del **microcontrolador PIC**, ampliamente utilizado en la industria y la educación debido a su versatilidad, bajo costo y eficiencia.  
+
+Durante el curso, los participantes aprenderán la arquitectura, programación y aplicación práctica del **PIC16F877A**, utilizando **MPLAB X IDE** y el compilador **XC8**. El enfoque es didáctico y práctico, dirigido a desarrollar proyectos funcionales que integren sensores, actuadores y comunicación básica.  
+
+---
+
+## Objetivos Particulares  
+
 Al finalizar el curso, el participante será capaz de:  
-- Instalar y configurar entornos de desarrollo para microcontroladores.  
-- Programar y probar rutinas para el manejo de periféricos básicos y avanzados.  
-- Integrar sensores y actuadores en un sistema embebido funcional.  
-- Desarrollar soluciones de control y automatización aplicando buenas prácticas de programación.  
-- Documentar y presentar proyectos de manera profesional.  
+
+- Identificar la arquitectura y funcionamiento del microcontrolador PIC.  
+- Programar periféricos básicos: entradas/salidas digitales, ADC, PWM y comunicación serie.  
+- Diseñar proyectos de control y monitoreo con PIC.  
+- Integrar sensores y actuadores en aplicaciones prácticas.  
+- Implementar un proyecto final que demuestre el uso del microcontrolador en un sistema embebido.  
 
 ---
 
-## Temario General
-1. Introducción a los sistemas embebidos.  
-2. Entornos de programación y compilación.  
-3. Manejo de entradas y salidas.  
-4. Sensores y actuadores.  
-5. Protocolos de comunicación.  
-6. Temporizadores e interrupciones.  
-7. Proyecto integrador.
+## Objetivos del Participante  
+
+Al finalizar cada jornada del curso, el participante será capaz de:  
+
+- **Reconocer** la arquitectura y los periféricos del microcontrolador PIC.  
+- **Programar** entradas, salidas, temporizadores y módulos de comunicación.  
+- **Diseñar e implementar** aplicaciones de control con sensores y actuadores.  
+- **Integrar** técnicas de programación en C para microcontroladores PIC.  
+- **Aplicar** un proyecto práctico con el microcontrolador PIC16F877A.  
 
 ---
 
-## Requerimientos técnicos: 
-Software instalado: [Simulide](https://simulide.com/p/download110/), [MPLAB X IDE (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs), [MPLAB XC8 C-Compiler (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8)
+## Campo de Aplicación  
+
+### 1. Biónica  
+- **Módulo 3:** Implementa el control electrónico en sistemas biónicos.  
+    - **Submódulo 1:** Programa tarjetas embebidas para sistemas biónicos.  
+
+### 2. Mecatrónica  
+- **Módulo 3:** Programa dispositivos de control.  
+    - **Submódulo 3:** Programa sistemas embebidos.  
+
+### 3. Electrónica  
+- **Módulo 4:** Opera sistemas electrónicos con microcontroladores.  
+    - **Submódulo 1:** Programa circuitos con microcontroladores.  
+    - **Submódulo 2:** Arma circuitos con microcontroladores en plataformas modulares.  
+ 
+### 4. Robótica y Automatización  
+- **Módulo 4:** Opera robots en procesos automatizados.  
+    - **Submódulo 2:** Arma circuitos con microcontroladores en plataformas modulares.  
 
 ---
-## Duración de las sesiones: 8hrs
+
+## Resultados de Aprendizaje  
+
+Al finalizar el curso, el estudiante será capaz de:  
+
+- Desarrollar aplicaciones con el microcontrolador PIC.  
+- Implementar periféricos básicos (ADC, PWM, UART, I2C, SPI).  
+- Integrar sensores y actuadores en un sistema embebido.  
+- Desarrollar proyectos funcionales de control y monitoreo.  
+
+---
+
+## Competencia Laboral  
+
+- Aplica metodologías de programación en microcontroladores PIC.  
+- Desarrolla proyectos de automatización y control con sistemas embebidos.  
+- Integra soluciones basadas en microcontroladores PIC en entornos educativos e industriales.  
+
+---
+
+## Temario General  
+
+### Sesión 1 – Introducción a los Sistemas Embebidos con PIC  
+- Conceptos básicos y aplicaciones  
+- Arquitectura del microcontrolador PIC16F877A  
+- Herramientas de desarrollo: MPLAB X IDE y compilador XC8  
+
+### Sesión 2 – Entradas y Salidas Digitales  
+- GPIO: control de LEDs y lectura de pulsadores  
+- Temporizadores y retardos  
+- Práctica de control básico  
+
+### Sesión 3 – Periféricos del Microcontrolador PIC  
+- ADC y PWM  
+- Comunicación serie: UART, I2C y SPI  
+- Integración de sensores y actuadores  
+
+### Sesión 4 – Desarrollo de Aplicaciones con PIC  
+- Configuración de proyectos en MPLAB X IDE  
+- Programación en lenguaje C para PIC  
+- Prácticas de control y monitoreo  
+
+### Sesión 5 – Proyecto Integrador  
+- Diseño de un sistema de control o monitoreo con PIC  
+- Integración de sensores y actuadores  
+- Presentación y evaluación de proyectos  
+
+---
+
+## Requerimientos Técnicos  
+
+- PC o laptop con Windows/Linux  
+- **Software:** [Simulide](https://simulide.com/p/download110/), [MPLAB X IDE (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs), [MPLAB XC8 C-Compiler (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8)  
+- **Hardware:** tarjeta de desarrollo con microcontrolador PIC16F877A  
+- Material de prácticas: protoboard, sensores básicos, actuadores (motores, relés, etc.)  
+
+---
+
+## Duración de las Sesiones  
+8 horas cada una  

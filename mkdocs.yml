@@ -48,7 +48,7 @@ theme:
 nav:
   - Inicio: index.md
   - Cursos:
-    - Sistemas Embebidos:
+    - Programación de Sistemas Embebidos PIC:
       - Carta descriptiva: subjects/embedded-systems/index.md
       - Contenido temático: subjects/embedded-systems/syllabus.md
       - Módulos:
@@ -56,6 +56,14 @@ nav:
         - Instrumentos de evaluación: subjects/embedded-systems/modules/module-2.md
         - Manual del participante: subjects/embedded-systems/modules/module-3.md
         - Flyer: subjects/embedded-systems/modules/module-4.md
+    - Entrenamiento de Modelos de Inteligencia Artificial:
+      - Carta descriptiva: subjects/ia-models-training/index.md
+      - Contenido temático: subjects/ia-models-training/syllabus.md
+      - Módulos:
+        - Material didáctico: subjects/ia-models-training/modules/module-1.md
+        - Instrumentos de evaluación: subjects/ia-models-training/modules/module-2.md
+        - Manual del participante: subjects/ia-models-training/modules/module-3.md
+        - Flyer: subjects/ia-models-training/modules/module-4.md
     - Internet de las cosas:
       - Carta descriptiva: subjects/internet-of-things/index.md
       - Contenido temático: subjects/internet-of-things/syllabus.md
@@ -64,6 +72,13 @@ nav:
         - Instrumentos de evaluación: subjects/internet-of-things/modules/module-2.md
         - Manual del participante: subjects/internet-of-things/modules/module-3.md
         - Flyer: subjects/internet-of-things/modules/module-4.md
-
+    - Desarrollo de Software utilizando la metodología ágil Scrum:
+      - Carta descriptiva: subjects/scrum-agile/index.md
+      - Contenido temático: subjects/scrum-agile/syllabus.md
+      - Módulos:
+        - Material didáctico: subjects/scrum-agile/modules/module-1.md
+        - Instrumentos de evaluación: subjects/scrum-agile/modules/module-2.md
+        - Manual del participante: subjects/scrum-agile/modules/module-3.md
+        - Flyer: subjects/scrum-agile/modules/module-4.md
   - Información general: about.md
 
