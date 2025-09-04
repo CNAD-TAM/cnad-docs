@@ -1,6 +1,6 @@
 site_name: Documentación Centralizada
 site_description: Documentación que centraliza toda la documentación del CNAD
-site_url: https://github.com/CNAD-TAM/cnad-docs
+site_url: https://cnadnoreste.edu.mx/index.php/acerca-del-cnad-noreste/
 repo_url: https://github.com/CNAD-TAM/cnad-docs
 repo_name: Documentación CNAD
 
@@ -50,7 +50,12 @@ nav:
   - Cursos:
     - Programación de Sistemas Embebidos PIC:
       - Carta descriptiva: subjects/embedded-systems/index.md
-      - Contenido temático: subjects/embedded-systems/syllabus.md
+      - Contenido temático: 
+        - Sessión 1: subjects/embedded-systems/syllabus/session-1.md
+        - Sessión 2: subjects/embedded-systems/syllabus/session-2.md
+        - Sessión 3: subjects/embedded-systems/syllabus/session-3.md
+        - Sessión 4: subjects/embedded-systems/syllabus/session-4.md
+        - Sessión 5: subjects/embedded-systems/syllabus/session-5.md
       - Módulos:
         - Material didáctico: subjects/embedded-systems/modules/module-1.md
         - Instrumentos de evaluación: subjects/embedded-systems/modules/module-2.md
@@ -85,3 +90,6 @@ nav:
 
 markdown_extensions:
   - attr_list
+
+extra_javascript:
+  - assets/repo-target-blank.js
