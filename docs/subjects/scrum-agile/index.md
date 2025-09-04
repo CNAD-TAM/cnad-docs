@@ -47,7 +47,7 @@ Al finalizar cada jornada del curso, el participante será capaz de:
 ## Campo de aplicación  
 
 1. Programación  
-   - **Módulo 1.** Desarrolla software con herramientas orientadas a la productividad.  
+   - **Módulo 2.** Desarrolla software con herramientas orientadas a la productividad.  
      - **Submódulo 2.** Aplica metodologías ágiles para el desarrollo de software  
 
 ---

@@ -82,3 +82,6 @@ nav:
         - Flyer: subjects/scrum-agile/modules/module-4.md
   - Información general: about.md
 
+
+markdown_extensions:
+  - attr_list

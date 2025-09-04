@@ -22,7 +22,11 @@ CNAD Noreste
 
 Los **sistemas embebidos** son tecnologías que integran hardware y software en un solo dispositivo para realizar tareas específicas. Este curso está enfocado en el uso del **microcontrolador PIC**, ampliamente utilizado en la industria y la educación debido a su versatilidad, bajo costo y eficiencia.  
 
-Durante el curso, los participantes aprenderán la arquitectura, programación y aplicación práctica del **PIC16F877A**, utilizando **MPLAB X IDE** y el compilador **XC8**. El enfoque es didáctico y práctico, dirigido a desarrollar proyectos funcionales que integren sensores, actuadores y comunicación básica.  
+Durante el curso, los participantes aprenderán la arquitectura, programación y aplicación práctica del [PIC16F877A](https://www.microchip.com/en-us/product/PIC16F877A){ target="_blank" rel="noopener" }, utilizando [MPLAB X IDE (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs){ target="_blank" rel="noopener" } y el compilador [MPLAB XC8 C-Compiler (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8){ target="_blank" rel="noopener" }. El enfoque es didáctico y práctico, dirigido a desarrollar proyectos funcionales que integren sensores, actuadores y comunicación básica.  
+
+<a href="assets\PIC16F877A.pdf" download="PIC16F877A.pdf" class="md-button md-button--primary" style="font-size:0.75rem; padding:.8em 1.4em;">
+ 📥 Datasheet PIC16F877A (PDF)
+</a>
 
 ---
 
@@ -46,11 +50,11 @@ Al finalizar cada jornada del curso, el participante será capaz de:
 - **Programar** entradas, salidas, temporizadores y módulos de comunicación.  
 - **Diseñar e implementar** aplicaciones de control con sensores y actuadores.  
 - **Integrar** técnicas de programación en C para microcontroladores PIC.  
-- **Aplicar** un proyecto práctico con el microcontrolador PIC16F877A.  
+- **Aplicar** un proyecto práctico con el microcontrolador [PIC16F877A](https://www.microchip.com/en-us/product/PIC16F877A){ target="_blank" rel="noopener" }.  
 
 ---
 
-## Campo de Aplicación  
+## Carreras Afines 
 
 ### 1. Biónica  
 - **Módulo 3:** Implementa el control electrónico en sistemas biónicos.  
@@ -73,7 +77,7 @@ Al finalizar cada jornada del curso, el participante será capaz de:
 
 ## Resultados de Aprendizaje  
 
-Al finalizar el curso, el estudiante será capaz de:  
+Al finalizar el curso, el participante será capaz de:  
 
 - Desarrollar aplicaciones con el microcontrolador PIC.  
 - Implementar periféricos básicos (ADC, PWM, UART, I2C, SPI).  
@@ -94,8 +98,8 @@ Al finalizar el curso, el estudiante será capaz de:
 
 ### Sesión 1 – Introducción a los Sistemas Embebidos con PIC  
 - Conceptos básicos y aplicaciones  
-- Arquitectura del microcontrolador PIC16F877A  
-- Herramientas de desarrollo: MPLAB X IDE y compilador XC8  
+- Arquitectura del microcontrolador [PIC16F877A](https://www.microchip.com/en-us/product/PIC16F877A){target="_blank" rel="noopener"}  
+- Herramientas de desarrollo: [MPLAB X IDE (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs){ target="_blank" rel="noopener" } y compilador  [MPLAB XC8 C-Compiler (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8){ target="_blank" rel="noopener" }.
 
 ### Sesión 2 – Entradas y Salidas Digitales  
 - GPIO: control de LEDs y lectura de pulsadores  
@@ -108,7 +112,7 @@ Al finalizar el curso, el estudiante será capaz de:
 - Integración de sensores y actuadores  
 
 ### Sesión 4 – Desarrollo de Aplicaciones con PIC  
-- Configuración de proyectos en MPLAB X IDE  
+- Configuración de proyectos en [MPLAB X IDE (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs){ target="_blank" rel="noopener" }  
 - Programación en lenguaje C para PIC  
 - Prácticas de control y monitoreo  
 
@@ -121,9 +125,9 @@ Al finalizar el curso, el estudiante será capaz de:
 
 ## Requerimientos Técnicos  
 
-- PC o laptop con Windows/Linux  
-- **Software:** [Simulide](https://simulide.com/p/download110/), [MPLAB X IDE (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs), [MPLAB XC8 C-Compiler (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8)  
-- **Hardware:** tarjeta de desarrollo con microcontrolador PIC16F877A  
+- PC o laptop con Windows. 
+- **Software:** [Simulide](https://simulide.com/p/download110/), [MPLAB X IDE (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs){ target="_blank" rel="noopener" }, [MPLAB XC8 C-Compiler (Windows)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8){ target="_blank" rel="noopener" }  
+- **Hardware:** tarjeta de desarrollo con microcontrolador [PIC16F877A](https://www.microchip.com/en-us/product/PIC16F877A){ target="_blank" rel="noopener" }.  
 - Material de prácticas: protoboard, sensores básicos, actuadores (motores, relés, etc.)  
 
 ---
