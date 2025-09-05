@@ -85,6 +85,8 @@ nav:
         - Instrumentos de evaluación: subjects/scrum-agile/modules/module-2.md
         - Manual del participante: subjects/scrum-agile/modules/module-3.md
         - Flyer: subjects/scrum-agile/modules/module-4.md
+    - Sistemas hidráulicos:
+      - Carta descriptiva: subjects/hydraulic-systems/index.md
   - Información general: about.md
 
 
