@@ -136,3 +136,7 @@ extra:
 
 extra_javascript:
   - assets/repo-target-blank.js
+
+extra_css:
+  - assets/styles/overrides.css   # crea este archivo si quieres retoques finos (opcional)
+

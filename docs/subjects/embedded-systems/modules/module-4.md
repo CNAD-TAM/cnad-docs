@@ -1,0 +1,1 @@
+![Robot arm](assets/embedded-systems-programming.png)
