@@ -51,11 +51,11 @@ nav:
     - Programación de Sistemas Embebidos PIC:
       - Carta descriptiva: subjects/embedded-systems/index.md
       - Contenido temático: 
-        - Sessión 1: subjects/embedded-systems/syllabus/session-1.md
-        - Sessión 2: subjects/embedded-systems/syllabus/session-2.md
-        - Sessión 3: subjects/embedded-systems/syllabus/session-3.md
-        - Sessión 4: subjects/embedded-systems/syllabus/session-4.md
-        - Sessión 5: subjects/embedded-systems/syllabus/session-5.md
+        - Sesión 1: subjects/embedded-systems/syllabus/session-1.md
+        - Sesión 2: subjects/embedded-systems/syllabus/session-2.md
+        - Sesión 3: subjects/embedded-systems/syllabus/session-3.md
+        - Sesión 4: subjects/embedded-systems/syllabus/session-4.md
+        - Sesión 5: subjects/embedded-systems/syllabus/session-5.md
       - Módulos:
         - Material didáctico: subjects/embedded-systems/modules/module-1.md
         - Instrumentos de evaluación: subjects/embedded-systems/modules/module-2.md
