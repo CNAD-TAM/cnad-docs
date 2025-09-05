@@ -89,7 +89,48 @@ nav:
 
 
 markdown_extensions:
+  - admonition
+  - abbr
   - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
+  - pymdownx.arithmatex:
+      generic: true  
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.caret
+  - pymdownx.mark
+
+extra:
+  homepage: https://docs.cnad.dev
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CNAD-TAM
+      name: GitHub • CNAD-TAM
+    - icon: material/school
+      link: https://cnadnoreste.edu.mx/
+      name: CNAD Noreste
+  consent:            # opcional: banner de consentimiento sencillo (Analytics)
+    title: Cookies & Privacy
+    description: We use cookies only to analyze traffic and improve documentation.
+
 
 extra_javascript:
   - assets/repo-target-blank.js
